@@ -5,6 +5,8 @@
 > College of Computing & Informatics, Universiti Tenaga Nasional (UNITEN)  
 > Semester 2, 2025/2026
 
+![Dead Man's Laptop - Main Menu](assets/main-menu.png)
+
 ---
 
 ## 📋 Table of Contents
@@ -14,6 +16,7 @@
 - [Game Features](#game-features)
 - [Gameplay Walkthrough](#gameplay-walkthrough)
 - [Forensic Concepts Covered](#forensic-concepts-covered)
+- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [How to Run](#how-to-run)
 - [Team](#team)
@@ -55,7 +58,7 @@ His sister, **Lim Mei Ling**, privately engaged NexCore Forensics Division for a
 | Suspect | Victor Chong | CEO of NexCore Solutions |
 | Suspect | Raymond Tan | Senior Manager of NexCore Solutions |
 | Suspect | Sarah Ng | Daniel's colleague |
-| Anonymous Contact | `ghost_r00t` | Anonymous who warned Danile |
+| Anonymous Contact | `ghost_r00t` | Anonymous who warned Daniel |
 
 ---
 
@@ -107,7 +110,7 @@ Chapter 4 — The Verdict
   └── Submit to PDRM Cybercrime Division & MACC
         │
         ▼
-Case Closed 
+Case Closed
 ```
 
 ---
@@ -134,6 +137,18 @@ Case Closed
 - Computer Crimes Act 1997
 - MACC Act 2009
 - Whistleblower Protection Act 2010
+
+---
+
+## 📸 Screenshots
+
+| Main Menu | Autopsy Interface |
+|:---------:|:-----------------:|
+| ![Main Menu](assets/main-menu.png) | ![Autopsy Interface](assets/autopsy-interface.png) |
+
+| Suspect Board |
+|:-------------:|
+| ![Suspect Board](assets/timeline.png) |
 
 ---
 
