@@ -155,7 +155,7 @@ The game runs as a **single-file web application** (`index.html`) — no install
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/dead-mans-laptop.git
+git clone https://github.com/fahmi910/Dead-s-Man-Laptop.git
 
 # Navigate into the project folder
 cd dead-mans-laptop
