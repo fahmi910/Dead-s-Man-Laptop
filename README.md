@@ -142,11 +142,11 @@ Case Closed
 
 ## 📸 Screenshots
 
-| Main Menu | Autopsy Interface |
-|:---------:|:-----------------:|
-| ![Main Menu](assets/main-menu.png) | ![Autopsy Interface](assets/autopsy-interface.png) |
+| Autopsy Interface |
+|:-----------------:|
+| ![Autopsy Interface](assets/autopsy-interface.png) |
 
-| Suspect Board |
+| Timeline Reconstruction |
 |:-------------:|
 | ![Suspect Board](assets/timeline.png) |
 
@@ -197,10 +197,3 @@ open index.html
 **Institution:** Universiti Tenaga Nasional (UNITEN)
 
 ---
-
-<div align="center">
-
-*"I found something at work. If anything happens to me, check my laptop."*  
-— Daniel Lim Wei Hao
-
-</div>
